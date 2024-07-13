@@ -1,0 +1,9 @@
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/data/Client.java
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/breaker/CircuitBreaker.java
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/breaker/HalfOpen.java
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/breaker/OpenState.java
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/ProductShopClientApplication.java
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/breaker/BreakerState.java
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/api/HttpSender.java
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/breaker/Closed.java
+/home/matteo2/matteo/esame/product-shop-client-main/product-shop-client/src/main/java/shop/productshopclient/breaker/Open.java
